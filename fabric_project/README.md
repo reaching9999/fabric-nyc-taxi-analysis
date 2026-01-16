@@ -1,7 +1,7 @@
 # NYC Taxi Data Platform (Microsoft Fabric)
 
 ## Overview
-End-to-end data engineering project built on Microsoft Fabric.  
+En-to-end data engineeering project built on Microsoft Fabric.  
 Ingests NYC Taxi trip data, joins it with weather (OpenAQ) and economic indicators (WB/ECB) to analyze ride demand vs external factors.
 
 ## Architecture
