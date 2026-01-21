@@ -1,0 +1,8 @@
+requests
+influxdb-client
+pandas
+great_expectations
+pyTelegramBotAPI
+dropbox
+pyodbc
+sqlalchemy
