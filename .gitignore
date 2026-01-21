@@ -5,3 +5,5 @@ __pycache__/
 .env
 *.log
 .DS_Store
+fabric_project/docs/PROJECT_STORY.md
+

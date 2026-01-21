@@ -6,8 +6,8 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 
 # config
 INFLUX_URL = "https://us-east-1-1.aws.cloud2.influxdata.com"
-INFLUX_TOKEN = "P98gxe9vAH0kqq2XDrAewS7I41eiHuLg8VRMCDSq75-EFK7VSvSmqE4FemsjK8m5DY-g5b2MKyuyoQlTlxaFZw=="
-INFLUX_ORG = "Yildiz Technical University"
+INFLUX_TOKEN = "YOUR_INFLUXDB_TOKEN_HERE"
+INFLUX_ORG = "YOUR_ORG_NAME"
 INFLUX_BUCKET = "weather_data"
 CITY_LAT = 40.7128
 CITY_LON = -74.0060

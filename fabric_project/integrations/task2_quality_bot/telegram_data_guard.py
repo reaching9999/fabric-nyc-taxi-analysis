@@ -5,8 +5,8 @@ import telebot
 from sqlalchemy import create_engine
 
 # config
-TELEGRAM_TOKEN = "8391793561:AAHbm6BMKjPC5iOQIDNwaA9Vf1NGj5j5c00" 
-FABRIC_SERVER = "bauwbbk34g5ehekihc6hooubny-ffwut4ps5ntudmoo5qrcb6xwwq.datawarehouse.fabric.microsoft.com" 
+TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" 
+FABRIC_SERVER = "YOUR_FABRIC_SERVER.datawarehouse.fabric.microsoft.com" 
 DATABASE_NAME = "lh_main"
 MOCK_MODE = True
 
